@@ -53,147 +53,147 @@
         "currentTab": 2
       },
       {
-        "id": "762d7a8d4a36bf69",
+        "id": "dc53350a53804ec7",
         "type": "tabs",
         "children": [
           {
-            "id": "098d465a35b66dc6",
+            "id": "6b15dfa676618c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/Big Zip.md",
+                "file": "picoCTF/3-General Skills 3/Super SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Zip"
+              "title": "Super SSH"
             }
           },
           {
-            "id": "78dccb49b3ce063f",
+            "id": "7798ad7c982a41af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/First Find.md",
+                "file": "picoCTF/3-General Skills 3/runme.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Find"
+              "title": "runme.py"
             }
           },
           {
-            "id": "a0e39aad70ff2c1b",
+            "id": "33a931de31cd730e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/Magikarp Ground Mission.md",
+                "file": "picoCTF/3-General Skills 3/Codebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magikarp Ground Mission"
+              "title": "Codebook"
             }
           },
           {
-            "id": "334a1630dbfa3026",
+            "id": "831c9b8aabb28e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/repetitions.md",
+                "file": "picoCTF/3-General Skills 3/convertme.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "repetitions"
+              "title": "convertme.py"
             }
           },
           {
-            "id": "bc19a0dc31b3a752",
+            "id": "61896e1f2ed1d07e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/Static ain't always noise.md",
+                "file": "picoCTF/3-General Skills 3/fixme1.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static ain't always noise"
+              "title": "fixme1.py"
             }
           },
           {
-            "id": "fce3207543a4a896",
+            "id": "855bffb265fc8c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/strings it.md",
+                "file": "picoCTF/3-General Skills 3/fixme2.py.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strings it"
+              "title": "fixme2.py"
             }
           },
           {
-            "id": "12759ed67d17574b",
+            "id": "bde24a2beebe43e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/Tab, Tab, Attack.md",
+                "file": "picoCTF/3-General Skills 3/PW Crack 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tab, Tab, Attack"
+              "title": "PW Crack 1"
             }
           },
           {
-            "id": "13b5f0612f47c81a",
+            "id": "b8b866ca19fbac96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/Wave a flag.md",
+                "file": "picoCTF/3-General Skills 3/PW Crack 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave a flag"
+              "title": "PW Crack 2"
             }
           },
           {
-            "id": "37a2d1ef590877ba",
+            "id": "1ee73a1f8a22dc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/Based.md",
+                "file": "picoCTF/3-General Skills 3/PW Crack 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Based"
+              "title": "PW Crack 3"
             }
           },
           {
-            "id": "e136581a7cec64eb",
+            "id": "3ce63020c82a5ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/2-General Skills 2/Useless.md",
+                "file": "picoCTF/3-General Skills 3/Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useless"
+              "title": "Serpentine"
             }
           }
         ],
@@ -359,10 +359,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "e136581a7cec64eb",
+  "active": "3ce63020c82a5ff1",
   "lastOpenFiles": [
     "picoCTF/PLANTILLA.md",
+    "picoCTF/3-General Skills 3/Serpentine.md",
+    "picoCTF/3-General Skills 3/PW Crack 3.md",
+    "picoCTF/3-General Skills 3/PW Crack 2.md",
+    "picoCTF/3-General Skills 3/PW Crack 1.md",
+    "picoCTF/3-General Skills 3/fixme2.py.md",
+    "picoCTF/3-General Skills 3/fixme1.py.md",
+    "picoCTF/3-General Skills 3/convertme.py.md",
+    "picoCTF/3-General Skills 3/Codebook.md",
+    "picoCTF/3-General Skills 3/runme.py.md",
+    "picoCTF/3-General Skills 3/Super SSH.md",
     "picoCTF/2-General Skills 2/Useless.md",
+    "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2/Based.md",
     "picoCTF/2-General Skills 2/Wave a flag.md",
     "picoCTF/2-General Skills 2/Tab, Tab, Attack.md",
@@ -378,14 +389,6 @@
     "picoCTF/1-General Skills/Nice netcat....md",
     "picoCTF/1-General Skills/Glitch cat.md",
     "picoCTF/1-General Skills/First Grep.md",
-    "picoCTF/1-General Skills/plumbing.md",
-    "picoCTF/1-General Skills/what's a net cat.md",
-    "picoCTF/1-General Skills/Obedient Cat.md",
-    "picoCTF/1-General Skills/Bases.md",
-    "picoCTF/1-General Skills/Warmed up.md",
-    "README.md",
-    "Welcome.md",
-    "Untitled",
     "picoCTF/1-General Skills",
     "picoCTF",
     "picoCTF/1-General Skills"
