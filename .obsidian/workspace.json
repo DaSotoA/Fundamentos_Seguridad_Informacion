@@ -57,49 +57,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b67e512315071f4",
+            "id": "0d3481b19bb69f0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 3/Irish-Name-Repo 1.md",
+                "file": "picoCTF/Web 4/MatchTheRegex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irish-Name-Repo 1"
+              "title": "MatchTheRegex"
             }
           },
           {
-            "id": "053683d8d0335ba6",
+            "id": "0b035e75eaa4e92d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 3/More SQLi.md",
+                "file": "picoCTF/Web 4/SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More SQLi"
+              "title": "SOAP"
             }
           },
           {
-            "id": "0c0f7197fe6027ff",
+            "id": "d6ed58b24fda4634",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 3/JaWT Scratchpad.md",
+                "file": "picoCTF/Web 4/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JaWT Scratchpad"
+              "title": "Trickster"
+            }
+          },
+          {
+            "id": "1ae3ca8b21ffd361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Web 4/Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Most Cookies"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,11 +275,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c0f7197fe6027ff",
+  "active": "1ae3ca8b21ffd361",
   "lastOpenFiles": [
+    "picoCTF/PLANTILLA.md",
+    "picoCTF/Web 4/Most Cookies.md",
+    "picoCTF/Web 4/Trickster.md",
+    "picoCTF/Web 4/MatchTheRegex.md",
+    "picoCTF/Web 4/SOAP.md",
+    "picoCTF/Web 4",
     "picoCTF/Web 3/More SQLi.md",
     "picoCTF/Web 3/JaWT Scratchpad.md",
-    "picoCTF/PLANTILLA.md",
     "picoCTF/Web 3/Irish-Name-Repo 1.md",
     "picoCTF/Web 3",
     "picoCTF/Web 2/GET aHEAD.md",
@@ -287,11 +306,7 @@
     "picoCTF/Tarea1_General Skills/Collaborative Development.md",
     "picoCTF/Tarea1_General Skills/Blame Game.md",
     "picoCTF/Tarea1_General Skills/binhexa.md",
-    "picoCTF/Tarea1_General Skills/Binary Search.md",
     "picoCTF/Web 1",
-    "picoCTF/3-General Skills 3/Serpentine.md",
-    "picoCTF/3-General Skills 3/PW Crack 3.md",
-    "picoCTF/3-General Skills 3/PW Crack 2.md",
     "picoCTF/Tarea1_General Skills",
     "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2",
