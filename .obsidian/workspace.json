@@ -57,63 +57,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d3481b19bb69f0c",
+            "id": "558e247881416943",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 4/MatchTheRegex.md",
+                "file": "picoCTF/Tarea2_Web/Includes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MatchTheRegex"
+              "title": "Includes"
             }
           },
           {
-            "id": "0b035e75eaa4e92d",
+            "id": "ce8a571d48073df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 4/SOAP.md",
+                "file": "picoCTF/Tarea2_Web/Inspect HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOAP"
+              "title": "Inspect HTML"
             }
           },
           {
-            "id": "d6ed58b24fda4634",
+            "id": "e886f34e2b52e91a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 4/Trickster.md",
+                "file": "picoCTF/Tarea2_Web/IntroToBurp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trickster"
+              "title": "IntroToBurp"
             }
           },
           {
-            "id": "1ae3ca8b21ffd361",
+            "id": "bc2d30f9dcfd164c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web 4/Most Cookies.md",
+                "file": "picoCTF/Tarea2_Web/Local Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Most Cookies"
+              "title": "Local Authority"
+            }
+          },
+          {
+            "id": "7a469dd8da33cc63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea2_Web/Unminify.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unminify"
+            }
+          },
+          {
+            "id": "e1460d9d462dca91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea2_Web/WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WebDecode"
+            }
+          },
+          {
+            "id": "46e5fd2bb0a66da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea2_Web/Power Cookie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Cookie"
+            }
+          },
+          {
+            "id": "b522dc0d30186bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea2_Web/Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roboto Sans"
+            }
+          },
+          {
+            "id": "f7e63ebf6388bae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea2_Web/Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secrets"
+            }
+          },
+          {
+            "id": "55d44cb44436e80a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea2_Web/SQLiLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQLiLite"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -275,9 +359,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ae3ca8b21ffd361",
+  "active": "55d44cb44436e80a",
   "lastOpenFiles": [
     "picoCTF/PLANTILLA.md",
+    "picoCTF/Tarea2_Web/SQLiLite.md",
+    "picoCTF/Tarea2_Web/Secrets.md",
+    "picoCTF/Tarea2_Web/Roboto Sans.md",
+    "picoCTF/Tarea2_Web/Power Cookie.md",
+    "picoCTF/Tarea2_Web/WebDecode.md",
+    "picoCTF/Tarea2_Web/Unminify.md",
+    "picoCTF/Tarea2_Web/Local Authority.md",
+    "picoCTF/Tarea2_Web/IntroToBurp.md",
+    "picoCTF/Tarea2_Web/Inspect HTML.md",
+    "picoCTF/Tarea2_Web/Includes.md",
+    "picoCTF/Tarea2_Web",
     "picoCTF/Web 4/Most Cookies.md",
     "picoCTF/Web 4/Trickster.md",
     "picoCTF/Web 4/MatchTheRegex.md",
@@ -296,22 +391,11 @@
     "picoCTF/Web 1/dont-use-client-side.md",
     "picoCTF/Web 1/logon.md",
     "picoCTF/Web 1/where are the robots.md",
-    "picoCTF/Web 1/Insp3ct0r.md",
-    "picoCTF/Tarea1_General Skills/Special.md",
-    "picoCTF/Tarea1_General Skills/chrono.md",
-    "picoCTF/Tarea1_General Skills/ASCII Numbers.md",
-    "picoCTF/Tarea1_General Skills/Permissions.md",
-    "picoCTF/Tarea1_General Skills/Time Machine.md",
-    "picoCTF/Tarea1_General Skills/Commitment Issues.md",
-    "picoCTF/Tarea1_General Skills/Collaborative Development.md",
-    "picoCTF/Tarea1_General Skills/Blame Game.md",
-    "picoCTF/Tarea1_General Skills/binhexa.md",
     "picoCTF/Web 1",
     "picoCTF/Tarea1_General Skills",
     "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2",
     "picoCTF/1-General Skills",
-    "picoCTF",
-    "picoCTF/1-General Skills"
+    "picoCTF"
   ]
 }
