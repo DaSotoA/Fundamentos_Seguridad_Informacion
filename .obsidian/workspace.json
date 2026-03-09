@@ -57,147 +57,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "558e247881416943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/Includes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Includes"
-            }
-          },
-          {
-            "id": "ce8a571d48073df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/Inspect HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inspect HTML"
-            }
-          },
-          {
-            "id": "e886f34e2b52e91a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/IntroToBurp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IntroToBurp"
-            }
-          },
-          {
-            "id": "bc2d30f9dcfd164c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/Local Authority.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Local Authority"
-            }
-          },
-          {
-            "id": "7a469dd8da33cc63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/Unminify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unminify"
-            }
-          },
-          {
-            "id": "e1460d9d462dca91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/WebDecode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WebDecode"
-            }
-          },
-          {
-            "id": "46e5fd2bb0a66da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/Power Cookie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Power Cookie"
-            }
-          },
-          {
-            "id": "b522dc0d30186bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/Roboto Sans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roboto Sans"
-            }
-          },
-          {
-            "id": "f7e63ebf6388bae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea2_Web/Secrets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Secrets"
-            }
-          },
-          {
             "id": "55d44cb44436e80a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea2_Web/SQLiLite.md",
+                "file": "picoCTF/1-Forensic/Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLiLite"
+              "title": "Glory of the Garden"
+            }
+          },
+          {
+            "id": "5617ece49143aa91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-Forensic/extensions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "extensions"
+            }
+          },
+          {
+            "id": "f3c717ef5c245790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-Forensic/shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shark on wire 2"
+            }
+          },
+          {
+            "id": "4fb49158f9a1f235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-Forensic/So Meta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "So Meta"
+            }
+          },
+          {
+            "id": "c690437f82579713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/1-Forensic/What Lies Within.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Lies Within"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -359,9 +289,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "55d44cb44436e80a",
+  "active": "e8e640c7f7f386a1",
   "lastOpenFiles": [
+    "picoCTF/1-Forensic/What Lies Within.md",
     "picoCTF/PLANTILLA.md",
+    "picoCTF/1-Forensic/So Meta.md",
+    "picoCTF/1-Forensic/shark on wire 2.md",
+    "picoCTF/1-Forensic/extensions.md",
+    "picoCTF/1-Forensic/Glory of the Garden.md",
     "picoCTF/Tarea2_Web/SQLiLite.md",
     "picoCTF/Tarea2_Web/Secrets.md",
     "picoCTF/Tarea2_Web/Roboto Sans.md",
@@ -372,6 +307,7 @@
     "picoCTF/Tarea2_Web/IntroToBurp.md",
     "picoCTF/Tarea2_Web/Inspect HTML.md",
     "picoCTF/Tarea2_Web/Includes.md",
+    "picoCTF/1-Forensic",
     "picoCTF/Tarea2_Web",
     "picoCTF/Web 4/Most Cookies.md",
     "picoCTF/Web 4/Trickster.md",
@@ -385,17 +321,11 @@
     "picoCTF/Web 2/GET aHEAD.md",
     "picoCTF/Web 2/Cookies.md",
     "picoCTF/Web 2/Scavenger Hunt.md",
-    "picoCTF/Web 1/Client-side-again.md",
     "picoCTF/Web 2",
-    "picoCTF/Web 1/picobrowser.md",
-    "picoCTF/Web 1/dont-use-client-side.md",
-    "picoCTF/Web 1/logon.md",
-    "picoCTF/Web 1/where are the robots.md",
     "picoCTF/Web 1",
     "picoCTF/Tarea1_General Skills",
     "picoCTF/3-General Skills 3",
     "picoCTF/2-General Skills 2",
-    "picoCTF/1-General Skills",
-    "picoCTF"
+    "picoCTF/1-General Skills"
   ]
 }
