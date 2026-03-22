@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/3-Forensic/MacroHard WeakEdge.md",
+                "file": "picoCTF/Tarea3_Participacion-picoCTF/Timeline 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacroHard WeakEdge"
+              "title": "Timeline 0"
             }
           }
         ],
@@ -291,8 +291,14 @@
   },
   "active": "fe20d56ccc1d24b6",
   "lastOpenFiles": [
-    "picoCTF/PLANTILLA.md",
+    "picoCTF/Tarea3_Participacion-picoCTF/Secret Box.md",
+    "picoCTF/Tarea3_Participacion-picoCTF/Timeline 0.md",
+    "picoCTF/Tarea3_Participacion-picoCTF/Old Sessions.md",
+    "picoCTF/Tarea3_Participacion-picoCTF/DISKO 4.md",
+    "picoCTF/Tarea3_Participacion-picoCTF/Credential Stuffing.md",
+    "picoCTF/Tarea3_Participacion-picoCTF/Binary Digits.md",
     "picoCTF/3-Forensic/MacroHard WeakEdge.md",
+    "picoCTF/PLANTILLA.md",
     "picoCTF/3-Forensic/tunn3l v1s10n.md",
     "picoCTF/3-Forensic/Matryoshka doll.md",
     "picoCTF/3-Forensic/WebNet1.md",
@@ -313,14 +319,8 @@
     "picoCTF/Tarea3_Participacion-picoCTF/bytemancy 0.md",
     "picoCTF/Web 2/Scavenger Hunt.md",
     "picoCTF/Tarea3_Participacion-picoCTF/Printer Shares.md",
-    "picoCTF/Tarea3_Participacion-picoCTF 1/Untitled.md",
-    "picoCTF/Tarea3_Participacion-picoCTF 1/SUDO MAKE ME A SANDWICH.md",
-    "picoCTF/Tarea3_Participacion-picoCTF 1/Piece by Piece.md",
     "picoCTF/Tarea3_Participacion-picoCTF 1",
     "picoCTF/Tarea3_Participacion-picoCTF",
-    "picoCTF/2-Forensic/like1000.md",
-    "picoCTF/2-Forensic/c0rrupt.md",
-    "picoCTF/2-Forensic/WhitePages.md",
     "picoCTF/2-Forensic",
     "picoCTF/1-Forensic",
     "picoCTF/Tarea2_Web",
