@@ -8,6 +8,6 @@ Can you run [ende.py](https://challenge-files.picoctf.net/c_wily_courier/0af806
 - Para proceder a descifrar el documento de la bandera, se invoca el _script_ en la terminal utilizando el parámetro correspondiente y el nombre del archivo encriptado: `python3 ende.py -d flag.txt.en`
 - Al ejecutar dicho comando, el programa pausará su ejecución y solicitará una contraseña para completar la acción. Se debe abrir el archivo `pw.txt`, copiar su contenido y pegarlo directamente en la terminal.
 - Tras ingresar la contraseña correcta, el _script_ desencriptará el contenido del archivo y mostrará la bandera final en la pantalla.
-
+picoCTF{4p0110_1n_7h3_h0us3_9c5f9bcf}
 ### Notas
 ### Referencias
