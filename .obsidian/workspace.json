@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/1-Cryptography/waves over lambda.md",
+                "file": "picoCTF/2-Cryptography/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "waves over lambda"
+              "title": "rsa-pop-quiz"
             }
           }
         ],
@@ -306,7 +306,9 @@
   "active": "408e455bf29b6d4c",
   "lastOpenFiles": [
     "picoCTF/PLANTILLA.md",
+    "picoCTF/2-Cryptography/rsa-pop-quiz.md",
     "picoCTF/1-Cryptography/waves over lambda.md",
+    "picoCTF/2-Cryptography",
     "picoCTF/1-Cryptography/Tapping.md",
     "picoCTF/1-Cryptography/la cifra de.md",
     "picoCTF/1-Cryptography/Easy1.md",
@@ -332,14 +334,12 @@
     "picoCTF/Examen1-General Skills & Web/Python Wrangling.md",
     "picoCTF/Examen1-General Skills & Web/SSTI2.md",
     "picoCTF/Examen1-General Skills & Web/SQL Direct.md",
-    "picoCTF/Examen1-General Skills & Web/Java Code Analysis!!.md",
     "picoCTF/4-Forensic",
     "picoCTF/3-Forensic",
     "picoCTF/Examen1-General Skills & Web",
     "picoCTF/Tarea3_Participacion-picoCTF 1",
     "picoCTF/Tarea3_Participacion-picoCTF",
     "picoCTF/2-Forensic",
-    "picoCTF/1-Forensic",
-    "picoCTF/Tarea2_Web"
+    "picoCTF/1-Forensic"
   ]
 }
